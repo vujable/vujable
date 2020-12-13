@@ -1,8 +1,4 @@
-# Hi there 👋
-
-![Image of Me](https://vujable.com/img/vujable5.jpg)
-
-### Hi, Welcome to my page!
+### Hi, Welcome to my page! 👋
 
 I like building awesome software. I've built websites, software and even games!  
 If you are interested, you can view some of my favorite projects in my [portfolio](https://vujable.com/#portfolio).
