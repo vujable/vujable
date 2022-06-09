@@ -17,7 +17,5 @@ When I am not coding my next project, I enjoy spending my time doing any of the 
 📱 And I am meeting more people and creating new opportunities  
  
  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vujable&theme=dark&count_private=true&include_all_commits=true&hide=prs,issues,contribs)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vujable&theme=dark&count_private=true&include_all_commits=true&hide=prs,issues,contribs)](https://github.com/vujable)
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vujable&count_private=true&theme=dark)
