@@ -16,4 +16,5 @@ When I am not coding my next project, I enjoy spending my time doing any of the 
 💡 I am brainstorming at conferences around the world  
 📱 And I am meeting more people and creating new opportunities  
  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vujable&count_private=true&include_all_commits=true&hide=prs,issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vujable&theme=dark&count_private=true&include_all_commits=true&hide=prs,issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vujable&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
