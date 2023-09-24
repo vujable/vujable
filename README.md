@@ -1,11 +1,9 @@
 ### Hi, Welcome to my page! 👋
 
 I like building awesome software. I've built websites, software and even games!  
-If you are interested, you can view some of my favorite projects in my [portfolio](https://vujable.com/#portfolio).
+If you are interested, you can view some of my favorite projects in my [portfolio](https://vujable.com/#works-section).
 
 Need something built or simply want to have chat? Send me an [email](mailto:vukasin@nullion.com).
-
-
 
 ### My personal interests
 
